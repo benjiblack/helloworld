@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class GitTest {
     
-    public static String message = "Global variable";
+    public static String message = "Git Test";
     
     public static void main(String[] args) {
         String title = "Git Test 1.0";
